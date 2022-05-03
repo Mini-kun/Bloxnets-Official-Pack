@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "item": "draconicevolution:draconium_dust",
+      "emc": 32768
+    },
+    {
+      "item": "powah:ender_core",
+      "emc": 52912
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "emc": 50000
+    },
+    {
+      "item": "powah:crystal_blazing",
+      "emc": 91536
+    },
+    {
+      "item": "powah:uraninite",
+      "emc": 4096
+    },
+    {
+      "item": "powah:crystal_niotic",
+      "emc": 308192
+    },
+    {
+      "item": "powah:steel_energized",
+      "emc": 6152
+    },
+    {
+      "item": "powah:crystal_spirited",
+      "emc": 1016384
+    },
+    {
+      "item": "powah:charged_snowball",
+      "emc": 500001
+    },
+    {
+      "item": "powah:crystal_nitro",
+      "emc": 1310265
+    },
+    {
+      "item": "powah:dry_ice",
+      "emc": 18
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence",
+      "emc": 128
+    },
+    {
+      "item": "mysticalagriculture:tertium_essence",
+      "emc": 512
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence",
+      "emc": 2048
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence",
+      "emc": 8192
+    }
+  ]
+}
